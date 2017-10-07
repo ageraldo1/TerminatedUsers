@@ -126,7 +126,7 @@ public class Database {
     }
     
     public String getLastError() {
-        return this.lastErrMessage;        
+        return this.lastErrMessage;
     }
     
     public void info()
